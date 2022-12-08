@@ -2,7 +2,7 @@
 
 • ❤️ Coding
 
-• 💼 Starting Carrier
+• 💼 Starting Career
 
 • 📊 Enjoying Back-end
 
