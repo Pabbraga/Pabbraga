@@ -17,3 +17,4 @@
 <code><img height="35" title="Csharp" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="35" title="Python" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="35" title="React Native" alt="react-native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="35" title="Laravel" alt="laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"></code>
