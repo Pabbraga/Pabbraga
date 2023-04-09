@@ -20,3 +20,5 @@
   <img height="35" title="React Native" alt="react-native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="35" title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/115px-Laravel.svg.png?20190820171151">
 <div>
+
+![Snake Animation](https://github.com/Pabbraga/Pabbraga/blob/output/github-contribution-grid-snake.svg)
