@@ -10,8 +10,8 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,php,laravel,java,mysql,mongodb)](https://skillicons.dev)
 
 ## Extra Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea)](https://skillicons.dev)
