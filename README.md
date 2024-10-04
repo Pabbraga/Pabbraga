@@ -1,17 +1,17 @@
-# About me
+# Sobre mim
 
-• ❤️ Coding
+• ❤️ Amo Programar
 
-• 💼 Starting Career
+• 💼 Iniciando carreira
 
-• 📊 Enjoying Back-end
+• 📊 Apreciando Back-end
 
-• 🔍 New Knowledges
+• 🔍 Buscando novos conhecimentos
 
-## Skills
+## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,php,laravel,java,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,php,laravel,java,spring,docker,mysql,mongodb)](https://skillicons.dev)
 
-## Extra Skills
+## Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea)](https://skillicons.dev)
