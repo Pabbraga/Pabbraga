@@ -1,12 +1,12 @@
 # Sobre mim
 
-• ❤️ Amo Programar
+• ❤️ Paixão pelo desenvolvimento de tecnologia
 
-• 💼 Iniciando carreira
+• 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
-• 👨‍💻 Apreciando Back-end
+• 👨‍💻 Desenvolvimento Orientado ao Back-end
 
-• 🔍 Buscando novos conhecimentos
+• ✨ Adquirindo novas experiências
 
 ## Tecnologias
 
@@ -27,5 +27,7 @@
 [![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://figma.com/)
 [![VSCode](https://skillicons.dev/icons?i=vscode "Visual Studio Code")](https://code.visualstudio.com/)
 [![Intellij](https://skillicons.dev/icons?i=idea "Intellij IDEA")](https://www.jetbrains.com/idea/)
+[![Postman](https://skillicons.dev/icons?i=postman "Postman")](https://www.postman.com/)
+[![Linux Mint](https://skillicons.dev/icons?i=mint "Linux Mint")](https://linuxmint.com/)
 
 > Ícones fornecidos por [Skill Icons](https://skillicons.dev/).
